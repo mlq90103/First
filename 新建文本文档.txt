@@ -1,0 +1,57 @@
+1
+lz可以去常见job site, like indeed, glassdoor, linkedin去找你希望做的工作看人家需要什么技能
+
+
+
+2
+是的我完全同意。事实上我根本不赞成新人去学C或者C++这样底层的语言。上面说开源项目的建议实际上主要是指已经有一定其他语言编程经验需要转向C++这种情况。如果是没有任何编程经验，C/C++这类语言牵扯太多底层细节，完全不必要，对新人掌握思路是很大的干扰。新手上路最合适的我认为是Ruby、Python之类的脚本语言，可以用逐行交互方式来得到最直接的反馈，语法容错性也高。JavaScript其实也是不错的。有足够经验之后再学Java了解标准的Object-Oriented Programming。至于C/C++，除非是从业人员并且所做的工作确实有所涉及，否则其实一辈子都没有学的必要。
+
+
+
+
+IBD cares 95% prestige school brand and personality
+S&T cares 80% prestige school brand and how smart u r
+Quant cares 50% prestige school brand and ur math/programming
+Bank Tech cares 30% prestige school brand and ur programming
+
+I don't agree
+这个专业，我觉得去ORCALE, SAP之类的，都比去GS, BARCLAY好。 金融机构的IT部门，实在是能不去就不去。
+
+*******************
+After 3 Years, developer in Oracle or same level company could get 120K total, raised from 100K, no big exception.
+A FO IT developer could get 120K base plus 20-50% bonus, depends on ur team and performance.
+The difference becomes larger and larger after years.
+
+So traditional IT firm is good for ppl who want a good life style and stable pay. IT in Finance is totally depends on ur effort and team. For example, total compensation of developers in high freq team with strong in c++/algo skill can get as twice/third as IT in those more BO team. Not even mention tech focus buy side firm like HRT/Citadel. A very senior tech position (MD level) in hedge fund can get 500K base according to some job postings I saw.
+
+Of course you can argue, 120K+20-50% is nothing compared with trader, even with quant. but not everyone want to or can be those more FO position. The only comparable thing is only between peers. It makes no sense to compare duck with chicken. For most of people, 200K+ in 10 years is already a pretty sharp number, more than most of non-FO ppl in IB like those operations/MO/PC. So can you say those guy should suiside or quit job immediately?
+
+Current financial industry does not quite often consider IT as cost center any more. Many new trading activities/regulations are driven by technology. For some specific area like electronically trading/prime service/high freq, technology itself is business. I'm not saying it is better than FO position, but at least it is not just something like building a HR website/reporting system. I admit there are many positions in bank IT does shit work but usually people from good school like CMU won't land into those position
+
+
+Therefore my suggestion to MISM student:
+
+If you can break into MSFT/Goog/FB, or technology position in those prestige buy side firms, it is the best career for technology path
+If you could land offer from real consulting firm, it is the best career for business path
+
+After these two, I think technology in bank is the best choice for those passionate young students. Choose the positions with direct interaction to desk. If you are really smart and have a good personality and willing to work 8hrs under huge pressure(trader) or 12+ hrs(quant) , it is possible to break into FO (. If you want a good life, a nice position in bank IT could give you pretty good compensation (more than most other non-management work in other industries) without ruining your life.
+
+
+
+**************
+Depends what kind of analysis you do. With all the stuff that you can learn for free online, you might be able to do without any degree. But talent, craftsmanship, creativity, good judgment are required - and you don't acquire those skills at school, it's quite the opposite.
+
+Python, Hadoop, logistic regression, databases, scripting languages, data architecture, etc. If you are a self learner you can learn all of this and much more at no cost, by browsing the Internet. Same with gaining experience by processing big data: write a web crawler, download tons of information by performing millions of automated Google queries, analyze the data, and you'll learn more than in any kind of internship.  
+
+
+
+
+Lots of great classes in the Summer Statistics Institute in May. I don't think we're going to focus on SPSS- depends on industry interest at our meeting next month. We will definitely be working with R, SAS and Hadoop.
+
+
+北京出入境检疫局，在和平里医院旁边。去到那里看到一栋建筑物标记着国际旅行者保健服务中心什么的就是了，应该挺好找的。去的时候要空腹，尽量早去。
+体检时间：周一至周五上午8:00-11:00，必须在10：30之前到
+1. 两张两寸照；身份证或护照
+2.录取学校的体检和免疫表（和I20一起寄，或者自行到学校官网上下载） 
+        3. 以前打过的疫苗记录卡（如果有的话）
+        4. 400-800RMB
